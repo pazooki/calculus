@@ -2,5 +2,4 @@ bin/
 include/
 share/
 lib/
-.Python
-.gitignore
+./.Python
