@@ -2,4 +2,4 @@ bin/
 include/
 share/
 lib/
-.Python/
+.Python
